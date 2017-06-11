@@ -148,3 +148,17 @@ td, th {
     left: 50%;
 }
 
+.code {
+    display: inline-block;
+    background-color: #FAFAFA;
+    border: solid #BBB;
+    border-width: 3px;
+    border-radius: 5px;
+    color: #333;
+    padding: 10px;
+    width: 35%;
+    height: 400px;
+    position: absolute;
+    overflow: scroll;
+}
+
